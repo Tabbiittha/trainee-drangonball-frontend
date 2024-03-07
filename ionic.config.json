@@ -1,0 +1,7 @@
+{
+  "name": "challenger_proyecto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
